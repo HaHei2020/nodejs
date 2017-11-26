@@ -1,0 +1,323 @@
+2017-08-20 17:19 +08:00: 服务器起来了！
+2017-08-20 17:19 +08:00:   <-- GET /slguser/list
+2017-08-20 17:19 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:19 +08:00: GET /slguser/list - 32ms
+2017-08-20 17:19 +08:00:   --> GET /slguser/list 200 46ms 4.46kb
+2017-08-20 17:19 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:19 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:19 +08:00:   --> GET /stylesheets/reset.css 200 20ms 1.09kb
+2017-08-20 17:19 +08:00:   <-- GET /javascripts/slgUser.js
+2017-08-20 17:19 +08:00:   --> GET /stylesheets/base.css 200 10ms 1.31kb
+2017-08-20 17:19 +08:00:   --> GET /javascripts/slgUser.js 200 4ms 1.78kb
+2017-08-20 17:19 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:19 +08:00:   --> GET /jedate/skin/jedate.css 200 2ms 29.03kb
+2017-08-20 17:19 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:19 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:19 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:19 +08:00:   --> GET /javascripts/jquery-3.2.1.min.js 200 8ms 84.63kb
+2017-08-20 17:19 +08:00:   --> GET /javascripts/semantic.min.js 200 19ms 276.04kb
+2017-08-20 17:19 +08:00:   --> GET /stylesheets/semantic.min.css 200 30ms 553.33kb
+2017-08-20 17:19 +08:00:   <-- GET /alliance/list
+2017-08-20 17:19 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:19 +08:00: GET /alliance/list - 12ms
+2017-08-20 17:19 +08:00:   --> GET /alliance/list 200 14ms 4.4kb
+2017-08-20 17:19 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:19 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:19 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:19 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:19 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:19 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:19 +08:00:   --> GET /stylesheets/base.css 200 11ms 1.31kb
+2017-08-20 17:19 +08:00:   --> GET /stylesheets/reset.css 200 10ms 1.09kb
+2017-08-20 17:19 +08:00:   --> GET /javascripts/jquery-3.2.1.min.js 200 13ms 84.63kb
+2017-08-20 17:19 +08:00:   --> GET /jedate/skin/jedate.css 200 11ms 29.03kb
+2017-08-20 17:19 +08:00:   <-- GET /javascripts/alliance.js
+2017-08-20 17:19 +08:00:   --> GET /javascripts/alliance.js 200 7ms 2.99kb
+2017-08-20 17:19 +08:00:   --> GET /javascripts/semantic.min.js 200 28ms 276.04kb
+2017-08-20 17:19 +08:00:   --> GET /stylesheets/semantic.min.css 200 40ms 553.33kb
+2017-08-20 17:24 +08:00: 服务器起来了！
+2017-08-20 17:24 +08:00:   <-- GET /
+2017-08-20 17:24 +08:00: GET / - 1ms
+2017-08-20 17:24 +08:00:   --> GET / 404 14ms -
+2017-08-20 17:24 +08:00:   <-- GET /index
+2017-08-20 17:24 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:24 +08:00: GET /index - 17ms
+2017-08-20 17:24 +08:00:   --> GET /index 200 20ms 3.5kb
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/reset.css 200 18ms 1.09kb
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/base.css
+  --> GET /javascripts/jquery-3.2.1.min.js 200 14ms 84.63kb
+  <-- GET /jedate/skin/jedate.css
+  <-- GET /javascripts/semantic.min.js
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/base.css 200 5ms 1.31kb
+2017-08-20 17:24 +08:00:   --> GET /jedate/skin/jedate.css 200 4ms 29.03kb
+2017-08-20 17:24 +08:00:   --> GET /javascripts/semantic.min.js 200 37ms 276.04kb
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/semantic.min.css 200 58ms 553.33kb
+2017-08-20 17:24 +08:00:   <-- GET /slguser/list
+2017-08-20 17:24 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:24 +08:00: GET /slguser/list - 11ms
+2017-08-20 17:24 +08:00:   --> GET /slguser/list 200 15ms 4.46kb
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:24 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/base.css 200 12ms 1.31kb
+2017-08-20 17:24 +08:00:   --> GET /jedate/skin/jedate.css 200 12ms 29.03kb
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/reset.css 200 11ms 1.09kb
+  --> GET /javascripts/jquery-3.2.1.min.js 200 12ms 84.63kb
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/slgUser.js
+2017-08-20 17:24 +08:00:   --> GET /javascripts/slgUser.js 200 6ms 1.78kb
+2017-08-20 17:24 +08:00:   --> GET /javascripts/semantic.min.js 200 36ms 276.04kb
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/semantic.min.css 200 65ms 553.33kb
+2017-08-20 17:24 +08:00:   <-- POST /slguser/list
+2017-08-20 17:24 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+2017-08-20 17:24 +08:00: 成功查询到该用户！
+2017-08-20 17:24 +08:00: 查询 玩家信息 成功！详细信息： 10001, nickname, commander
+2017-08-20 17:24 +08:00: POST /slguser/list - 16ms
+2017-08-20 17:24 +08:00:   --> POST /slguser/list 200 18ms 13.65kb
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:24 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/reset.css 200 8ms 1.09kb
+2017-08-20 17:24 +08:00:   --> GET /jedate/skin/jedate.css 200 7ms 29.03kb
+  --> GET /javascripts/jquery-3.2.1.min.js 200 8ms 84.63kb
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:24 +08:00:   <-- GET /stylesheets/slguser_list_table.css
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/base.css 200 2ms 1.31kb
+  --> GET /stylesheets/slguser_list_table.css 200 3ms 283b
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/slgUser_list_table.js
+2017-08-20 17:24 +08:00:   <-- GET /javascripts/slgUser.js
+2017-08-20 17:24 +08:00:   --> GET /javascripts/slgUser_list_table.js 200 4ms 7.4kb
+2017-08-20 17:24 +08:00:   --> GET /javascripts/slgUser.js 200 4ms 1.78kb
+2017-08-20 17:24 +08:00:   --> GET /javascripts/semantic.min.js 200 31ms 276.04kb
+2017-08-20 17:24 +08:00:   --> GET /stylesheets/semantic.min.css 200 39ms 553.33kb
+2017-08-20 17:25 +08:00:   <-- GET /slgorder/order
+2017-08-20 17:25 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+2017-08-20 17:25 +08:00: 成功查询到该用户！
+2017-08-20 17:25 +08:00: GET /slgorder/order - 8ms
+2017-08-20 17:25 +08:00:   --> GET /slgorder/order 200 9ms 9.85kb
+2017-08-20 17:25 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:25 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:25 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:25 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:25 +08:00:   --> GET /stylesheets/reset.css 200 9ms 1.09kb
+2017-08-20 17:25 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:25 +08:00:   --> GET /jedate/skin/jedate.css 200 12ms 29.03kb
+  --> GET /stylesheets/base.css 200 12ms 1.31kb
+2017-08-20 17:25 +08:00:   --> GET /javascripts/jquery-3.2.1.min.js 200 5ms 84.63kb
+2017-08-20 17:25 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:25 +08:00:   <-- GET /javascripts/moment.min.js
+2017-08-20 17:25 +08:00:   <-- GET /stylesheets/slgorder.css
+2017-08-20 17:25 +08:00:   <-- GET /javascripts/slgorder.js
+2017-08-20 17:25 +08:00:   <-- GET /jedate/jquery.jedate.min.js
+2017-08-20 17:25 +08:00:   --> GET /javascripts/moment.min.js 200 12ms 50.26kb
+  --> GET /stylesheets/slgorder.css 200 12ms 443b
+  --> GET /javascripts/slgorder.js 200 10ms 7.82kb
+  --> GET /jedate/jquery.jedate.min.js 200 8ms 30.4kb
+2017-08-20 17:25 +08:00:   --> GET /javascripts/semantic.min.js 200 25ms 276.04kb
+2017-08-20 17:25 +08:00:   --> GET /stylesheets/semantic.min.css 200 84ms 553.33kb
+2017-08-20 17:25 +08:00:   <-- POST /slgorder/allOrder
+2017-08-20 17:25 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:25 +08:00: 查询订单 成功！
+2017-08-20 17:25 +08:00: POST /slgorder/allOrder - 2131ms
+2017-08-20 17:25 +08:00:   --> POST /slgorder/allOrder 200 2,132ms 301b
+2017-08-20 17:25 +08:00:   <-- POST /slgorder/queryOrder
+2017-08-20 17:25 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:25 +08:00: 查询订单 成功！
+2017-08-20 17:25 +08:00: POST /slgorder/queryOrder - 8ms
+2017-08-20 17:25 +08:00:   --> POST /slgorder/queryOrder 200 9ms 1.42kb
+2017-08-20 17:27 +08:00:   <-- GET /slguser/list
+2017-08-20 17:27 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:27 +08:00: GET /slguser/list - 8ms
+2017-08-20 17:27 +08:00:   --> GET /slguser/list 200 10ms 4.46kb
+2017-08-20 17:27 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:27 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:27 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:27 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:27 +08:00:   --> GET /stylesheets/reset.css 200 11ms 1.09kb
+2017-08-20 17:27 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:27 +08:00:   --> GET /jedate/skin/jedate.css 200 13ms 29.03kb
+2017-08-20 17:27 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:27 +08:00:   <-- GET /javascripts/slgUser.js
+2017-08-20 17:27 +08:00:   --> GET /javascripts/jquery-3.2.1.min.js 200 16ms 84.63kb
+2017-08-20 17:27 +08:00:   --> GET /stylesheets/base.css 200 6ms 1.31kb
+2017-08-20 17:27 +08:00:   --> GET /javascripts/slgUser.js 200 6ms 1.78kb
+2017-08-20 17:27 +08:00:   --> GET /stylesheets/semantic.min.css 200 32ms 553.33kb
+2017-08-20 17:27 +08:00:   --> GET /javascripts/semantic.min.js 200 22ms 276.04kb
+2017-08-20 17:27 +08:00:   <-- POST /slguser/list
+2017-08-20 17:27 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:27 +08:00: 查询 玩家信息 成功！详细信息： 10001, nickname, commander
+2017-08-20 17:27 +08:00: POST /slguser/list - 11ms
+2017-08-20 17:27 +08:00:   --> POST /slguser/list 200 12ms 13.65kb
+2017-08-20 17:27 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:27 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:27 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:27 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:27 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:27 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:27 +08:00:   --> GET /stylesheets/reset.css 200 18ms 1.09kb
+2017-08-20 17:27 +08:00:   --> GET /stylesheets/base.css 200 17ms 1.31kb
+  --> GET /jedate/skin/jedate.css 200 15ms 29.03kb
+  --> GET /javascripts/jquery-3.2.1.min.js 200 16ms 84.63kb
+2017-08-20 17:27 +08:00:   <-- GET /javascripts/slgUser_list_table.js
+2017-08-20 17:27 +08:00:   <-- GET /stylesheets/slguser_list_table.css
+2017-08-20 17:27 +08:00:   <-- GET /javascripts/slgUser.js
+2017-08-20 17:27 +08:00:   --> GET /javascripts/slgUser_list_table.js 200 4ms 7.4kb
+2017-08-20 17:27 +08:00:   --> GET /stylesheets/slguser_list_table.css 200 3ms 283b
+2017-08-20 17:27 +08:00:   --> GET /javascripts/slgUser.js 200 3ms 1.78kb
+2017-08-20 17:27 +08:00:   --> GET /javascripts/semantic.min.js 200 26ms 276.04kb
+2017-08-20 17:27 +08:00:   --> GET /stylesheets/semantic.min.css 200 44ms 553.33kb
+2017-08-20 17:27 +08:00:   <-- POST /slguser/sendRewards
+2017-08-20 17:27 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+成功查询到该用户！
+2017-08-20 17:27 +08:00: 查询 玩家信息 成功！详细信息： 10001, nickname, commander
+2017-08-20 17:27 +08:00: [ 133553, 'commander', '10001' ]
+2017-08-20 17:27 +08:00: 写入 发奖 成功！详细信息： 10001, commander, diamonds, 100
+2017-08-20 17:27 +08:00: POST /slguser/sendRewards - 76ms
+2017-08-20 17:27 +08:00:   --> POST /slguser/sendRewards 200 77ms 1b
+2017-08-20 17:28 +08:00:   <-- POST /slguser/list
+2017-08-20 17:28 +08:00: [ RowDataPacket {
+    id: 1,
+    username: 'hahei',
+    password: '1234567',
+    permissionLevel: 'L1',
+    playerManage: 'T',
+    gameManage: 'T',
+    playerLog: 'T',
+    serverManage: 'T',
+    userManage: 'T' } ]
+2017-08-20 17:28 +08:00: 成功查询到该用户！
+2017-08-20 17:28 +08:00: 查询 玩家信息 成功！详细信息： 10001, nickname, commander
+2017-08-20 17:28 +08:00: POST /slguser/list - 15ms
+2017-08-20 17:28 +08:00:   --> POST /slguser/list 200 16ms 13.65kb
+2017-08-20 17:28 +08:00:   <-- GET /stylesheets/reset.css
+2017-08-20 17:28 +08:00:   <-- GET /stylesheets/semantic.min.css
+2017-08-20 17:28 +08:00:   <-- GET /stylesheets/base.css
+2017-08-20 17:28 +08:00:   <-- GET /jedate/skin/jedate.css
+2017-08-20 17:28 +08:00:   <-- GET /javascripts/semantic.min.js
+2017-08-20 17:28 +08:00:   --> GET /stylesheets/reset.css 200 14ms 1.09kb
+2017-08-20 17:28 +08:00:   --> GET /stylesheets/base.css 200 11ms 1.31kb
+2017-08-20 17:28 +08:00:   <-- GET /javascripts/slgUser_list_table.js
+2017-08-20 17:28 +08:00:   <-- GET /stylesheets/slguser_list_table.css
+2017-08-20 17:28 +08:00:   --> GET /jedate/skin/jedate.css 200 14ms 29.03kb
+2017-08-20 17:28 +08:00:   <-- GET /javascripts/jquery-3.2.1.min.js
+2017-08-20 17:28 +08:00:   --> GET /stylesheets/slguser_list_table.css 200 4ms 283b
+2017-08-20 17:28 +08:00:   <-- GET /javascripts/slgUser.js
+  --> GET /javascripts/slgUser_list_table.js 200 11ms 7.4kb
+2017-08-20 17:28 +08:00:   --> GET /javascripts/jquery-3.2.1.min.js 200 7ms 84.63kb
+2017-08-20 17:28 +08:00:   --> GET /javascripts/semantic.min.js 200 20ms 276.04kb
+2017-08-20 17:28 +08:00:   --> GET /javascripts/slgUser.js 200 5ms 1.78kb
+2017-08-20 17:28 +08:00:   --> GET /stylesheets/semantic.min.css 200 33ms 553.33kb
